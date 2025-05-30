@@ -1,0 +1,42 @@
+[
+  {
+    "name": "玄幻",
+    "url": "/xuanhuan/",
+    "sortid": 1
+  },
+  {
+    "name": "武侠",
+    "url": "/wuxia/",
+    "sortid": 2
+  },
+  {
+    "name": "都市",
+    "url": "/dushi/",
+    "sortid": 3
+  },
+  {
+    "name": "历史",
+    "url": "/lishi/",
+    "sortid": 4
+  },
+  {
+    "name": "网游",
+    "url": "/wangyou/",
+    "sortid": 5
+  },
+  {
+    "name": "科幻",
+    "url": "/kehuan/",
+    "sortid": 6
+  },
+  {
+    "name": "女生",
+    "url": "/mm/",
+    "sortid": 7
+  },
+  {
+    "name": "完本",
+    "url": "/finish/",
+    "sortid": 0
+  }
+]
