@@ -10,7 +10,7 @@ import * as cheerio from "cheerio"; // 引入cheerio库用于解析HTML
 import { readFile, writeFile } from "fs/promises"; // 引入fs/promises库用于异步文件操作
 import { existsSync } from "fs"; // 引入fs库检查文件是否存在
 
-const url = "https://www.bi3i.cc"; // 要爬取的网页URL
+const url = "https://www.9b683.sbs"; // 要爬取的网页URL
 
 const typesArr = [];
 // const novelsArr = [];
